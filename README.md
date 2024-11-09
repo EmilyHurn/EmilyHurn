@@ -1,11 +1,9 @@
 Hi, I’m @EmilyHurn
 
-I am currently a Sophomore at the College of Charleston pursuing a B.S. of Computer Science
-with a minor in Data Science. At the college, I am also a member of the cyber security and cyber
-defense team who has participated in several competitions such as HIVESTORM, NCL, PCDC, and SECCDC.
+I am currently a Senior at the College of Charleston pursuing a B.S. of Computer Science and B.S of Data Science
+with a minor in Statistics. At the college, I am also the Vice President of the cyber security and cyber
+defense team and participated in several competitions such as HIVESTORM, NCL, PCDC, Dragos CTF, and SECCDC.
 
-I am currently unsure exactly what feild I would like to specialize in, but I have taken an 
-interest in data science as well as cyber security.
 
 <!---
 EmilyHurn/EmilyHurn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
